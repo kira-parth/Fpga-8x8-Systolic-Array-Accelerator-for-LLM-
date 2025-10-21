@@ -1,5 +1,5 @@
 # Fpga-8x8-Systolic-Array-Accelerator-for-LLM-
-In this we maked 8x8 systolic array on fpga and throught its jupyter interfcae of fpga we maked LLM that predicts forex price and maked process very fast with this systolic array, altough i will not share my codes as of because my research paper is under review on this topic 
+In this I make an  8x8 systolic array on fpga and throught its jupyter interfcae of fpga we maked LLM that predicts forex price and maked process very fast with this systolic array, altough i will not share my codes as of because my research paper is under review on this topic 
 # Hardware Design Details
 
 ### Systolic Array Architecture
